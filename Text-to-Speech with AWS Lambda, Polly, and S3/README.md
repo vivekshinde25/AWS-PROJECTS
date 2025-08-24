@@ -128,7 +128,7 @@ Set these environment variables in your Lambda configuration:
 * The End User can then access the destination bucket to download or stream the generated audio file.
 
 
-![App Screenshot](https://github.com/vivekshinde25/AWS-PROJECTS/blob/2cb497058a1776ed5499c1bd9d41fac6ec6330a1/Text-to-Speech%20with%20AWS%20Lambda%2C%20Polly%2C%20and%20S3/Screenshot%202025-08-24%20141359.png)
+![App Screenshot](https://github.com/vivekshinde25/AWS-PROJECTS/blob/443e8a55ad26fbd604e78134fd5cfce2c24f88eb/Text-to-Speech%20with%20AWS%20Lambda%2C%20Polly%2C%20and%20S3/ChatGPT%20Image%20Aug%2024%2C%202025%2C%2002_51_25%20PM.png)
 
 ## 🎯 Use Cases
 
